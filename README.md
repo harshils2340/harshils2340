@@ -1,3 +1,5 @@
+![Readme Image](readme.png)
+
 As a software developer with a passion for integrating machine learning, I am skilled in writing well-designed, testable, and efficient code using current best practices.
 
 With a strong foundation in software engineering and experience in various scripting languages, I am a fast learner, hard worker, and team player. My expertise in developing user-friendly and responsive web interfaces, automating tasks, and implementing RESTful web APIs/services has helped me in designing and implementing web applications that exceed user expectations. 
